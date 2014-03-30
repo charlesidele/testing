@@ -1,1 +1,3 @@
-(SELECT DISTINCT(BUSID) FROM RIDES...
+...(SELECT DISTINCT(BUSID) FROM RIDES
+
+delete from rides where cars = "mercedes_benz";
